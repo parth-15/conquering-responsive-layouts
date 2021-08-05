@@ -10,7 +10,7 @@ body {
 
 .container {
     width: 100%;
-    padding: 5rem;
+    padding: 5em;
     border: 2px solid black;
 }
 
@@ -28,11 +28,11 @@ body {
 
 .btn {
     background-color: #38CFD9;
-    font-size: 21px;
+    font-size: 1.4rem;
     font-weight: bold;
     border-radius: 40px;
-    margin-top: 2rem;
+    margin-top: 2em;
     text-align: center;
-    padding: 0.40rem 0;
-    width: 15rem;
+    padding: 0.40em 0;
+    width: 35vmin;
 }
