@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto Black';
+    background-color: #136C72;
+}
+
+.container {
+    width: 100%;
+    padding: 5rem;
+    border: 2px solid black;
+}
+
+.content {
+    width: 50%;
+}
+
+.hdr {
+    font-size: 48px;
+}
+
+.txt {
+    font-size: 21px;
+}
+
+.btn {
+    background-color: #38CFD9;
+    font-size: 21px;
+    font-weight: bold;
+    border-radius: 40px;
+    margin-top: 2rem;
+    text-align: center;
+    padding: 0.40rem 0;
+    width: 15rem;
+}

@@ -40,12 +40,14 @@ body {
   width: 100%;
   background-color: yellow;
   padding: 0px 20%;
+  /* border: 5px solid black; */
 }
 
 .intro-content1 {
   background-color: green;
   width: 80%;
   max-width: 600px;
+  border: 15px solid black;
 }
 
 /* Conversation on Kevin Powell Discord Community */
